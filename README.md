@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Hi there 👋, I'm Nontawat Phunpuek
+### Hi👋, I'm Non
 **Junior Full Stack Developer**
 
 I'm a recent Computer Science graduate (Second-Class Honors) from Kasetsart University Sriracha Campus. I am passionate about building robust web applications, REST APIs, and seamless system integrations.
